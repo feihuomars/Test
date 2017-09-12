@@ -23,6 +23,7 @@ public class MainActivity extends FragmentActivity {
 
     private static final String TAG = "MainActivity";
 
+    //常量定义
     public FragmentTabHost fragmentTabHost;
     final String serverUri = "tcp://47.94.246.26:1883";
     private String clientId;
